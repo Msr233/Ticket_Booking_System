@@ -1,0 +1,17 @@
+5
+10
+1
+1
+agent 1
+reserve 0
+ticket 0
+cancel 0
+check_customer 0
+reserve A 5r AA
+cancel A 1 AA
+cancel A 2 5 AA
+cancel B AA
+cancel C 2r AA
+cancel E 2c AA
+cancel 3 AA
+end

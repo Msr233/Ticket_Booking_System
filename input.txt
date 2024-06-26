@@ -1,0 +1,26 @@
+5
+10
+1
+1
+agent 1
+reserve 0
+ticket 0
+cancel 0
+check_customer 0
+reserve A 2 7 Br BB
+reserve A 2r CC
+reserve C 3c EE
+ticket 8 AA BB
+show all AA
+end
+
+
+A 2 A7
+A r AA 
+
+A 2 aa    A7 bB
+A 4 7   77 fff
+A       asa as
+A 2r    ad s
+A 2c    ass a
+8       as d

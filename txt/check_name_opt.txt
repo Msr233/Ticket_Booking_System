@@ -1,0 +1,17 @@
+5
+10
+1
+1
+agent 1
+reserve 0
+ticket 0
+cancel 0
+check_customer 0
+reserve A 2 7 123Abc
+reserve A 2r Chenxin Fang
+reserve C Chenxin Fang
+ticket 8
+ticket fcx
+show fcx
+fcxfcx A 1 fcx
+end
