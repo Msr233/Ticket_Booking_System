@@ -39,6 +39,7 @@ make
 
 # 3、项目结构
 
+```C
 |-- Ticket_Booking_System
 |    |-- include
 |    |    |-- 相关代码
@@ -50,6 +51,7 @@ make
 |    |    |-- 未使用的代码
 |    |-- main.c
 |    |-- Makefile
+```
 
 # 4、输入数据格式描述
 
