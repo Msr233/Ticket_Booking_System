@@ -51,8 +51,6 @@ make
 |    |-- main.c
 |    |-- Makefile
 
-​	|--include
-
 # 4、输入数据格式描述
 
 ```txt
